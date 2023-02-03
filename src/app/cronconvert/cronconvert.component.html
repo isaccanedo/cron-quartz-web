@@ -1,0 +1,8 @@
+<div class="cronConvertor">
+    <form name="form" (ngSubmit)="convertToQuartz()">
+        <input type="text" name="cron" [(ngModel)]="cron" />
+        <input type="submit" name="submit" value="Go" />
+    </form>
+</div>
+
+<app-quartznotation [quartzNotation]="quartz"></app-quartznotation>
