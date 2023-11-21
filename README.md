@@ -1,10 +1,10 @@
 # CronQuartzWeb
 
-A web frontend implementation with Angular 2 and the [cron-to-quartz](https://github.com/lirantal/cron-to-quartz) library to create an online conversion from CRON syntax notation to Quartz Scheduler notation.
+Uma implementação de frontend web com Angular 2 e a biblioteca [cron-to-quartz](https://github.com/lirantal/cron-to-quartz) para criar uma conversão online da notação de sintaxe CRON para a notação Quartz Scheduler.
 
-# Development
+# Desenvolvimento
 
-This project was built and scafollded based on [angular-cli](https://github.com/angular/angular-cli) which is a popular generator for Angular 2.
+Este projeto foi construído e estruturado com base em [angular-cli](https://github.com/angular/angular-cli), que é um gerador popular para Angular 2.
 
 ## Running a Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
