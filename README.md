@@ -6,8 +6,8 @@ Uma implementação de frontend web com Angular 2 e a biblioteca [cron-to-quartz
 
 Este projeto foi construído e estruturado com base em [angular-cli](https://github.com/angular/angular-cli), que é um gerador popular para Angular 2.
 
-## Running a Development server
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Executando um servidor de desenvolvimento
+Execute `ng serve` para um servidor de desenvolvimento. Navegue até `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar algum dos arquivos de origem.
 
 ## Running unit tests
 
