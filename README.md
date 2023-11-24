@@ -9,7 +9,7 @@ Este projeto foi construído e estruturado com base em [angular-cli](https://git
 ## Executando um servidor de desenvolvimento
 Execute `ng serve` para um servidor de desenvolvimento. Navegue até `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar algum dos arquivos de origem.
 
-## Running unit tests
+## Executando testes unitários
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
